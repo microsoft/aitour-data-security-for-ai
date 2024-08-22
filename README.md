@@ -40,13 +40,6 @@ TODO: If you would like to link the user to further learning, please enter that 
 </b></sub></a><br />
             <a href="https://github.com/joey-snow" title="talk">📢</a> 
     </td>
-    <td align="center"><a href="https://github.com/rod-trent">
-        <img src="https://avatars.githubusercontent.com/u/56966432?v=4" width="100px;" alt="Rod Trent
-"/><br />
-        <sub><b>Joey Snow
-</b></sub></a><br />
-            <a href="https://github.com/rod-trent" title="talk">📢</a> 
-    </td>
 </tr>
 
 </table>
