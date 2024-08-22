@@ -31,11 +31,11 @@ This training repository is divided in to the following sections:
 |-------------------|---------------------------|--------------------------------------
 | 28 slides - 30 minutes| 1 demos - 15 minutes | Demo setup
 
-## Slides
+## PENDING Slides
 
 The [slides](presentations.md) have presenter notes in each part of the session
 
-### Timing
+### PENDING Timing
 
 | Time        | Description 
 --------------|-------------
