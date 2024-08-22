@@ -6,16 +6,19 @@ To help prepare content for AI Tour, please use this template repository for org
 5. If you are taking advantage of the static front end site, edit the content in the _config.yml file as needed (specifically the title and description)
 
 
-# [TODO: Insert Session Title]
-
-This repo is intended as a template for Microsoft AI Tour repositories
+# BRK421 Data Security for AI
 
 ## Session Desciption
 
-TODO: Add short description of the session. Please note this description should be at a technical level that anyone from decision makers to conference attendees can understand.
+In an era where artificial intelligence (AI) is transforming industries, ensuring the security of data used in AI systems is paramount. This session, “Data Security for AI,” will delve into the critical aspects of protecting data throughout the AI lifecycle. Participants will gain insights into the unique challenges and best practices for securing data in AI applications, from data collection and storage to processing and deployment.
 
 ## Learning Outcomes
-TODO: Add a list of what you hope the attendee will take away from this session. This can be skills, technology, appreciation, etc.
+
+* Understanding Data Security in AI: Explore the fundamentals of data security and its importance in AI systems.
+* Threats and Vulnerabilities: Identify common threats and vulnerabilities in AI data pipelines and how to mitigate them.
+* Data Privacy and Compliance: Learn about regulatory requirements and best practices for maintaining data privacy and compliance in AI projects.
+* Secure Data Handling: Discover techniques for secure data handling, including encryption, anonymization, and access control.
+* AI Model Security: Understand the importance of securing AI models and preventing adversarial attacks.
 
 ## Technology Used
 TODO: Add a list of any technology or software used.
