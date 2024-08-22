@@ -14,7 +14,7 @@ In an era where artificial intelligence (AI) is transforming industries, ensurin
 
 ## Learning Outcomes
 
-* Understanding Data Security in AI: Explore the fundamentals of data security and its importance in AI systems.
+* Understand Data Security in AI: Explore the fundamentals of data security and its importance in AI systems.
 * Threats and Vulnerabilities: Identify common threats and vulnerabilities in AI data pipelines and how to mitigate them.
 * Data Privacy and Compliance: Learn about regulatory requirements and best practices for maintaining data privacy and compliance in AI projects.
 * Secure Data Handling: Discover techniques for secure data handling, including encryption, anonymization, and access control.
