@@ -23,7 +23,7 @@ code.
 | Demos Recordings             | - [Demo - Open AI Demo without Audio](https://aka.ms/AAruylb) | Additional Demo Content |  
 | Demo Script           | - [Demo Script](https://aka.ms/AAruj6s) | Talk script for demos | 
 
-## Get Started
+## PENDING Get Started
 
 This training repository is divided in to the following sections:
 
