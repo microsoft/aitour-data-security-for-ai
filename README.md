@@ -13,7 +13,10 @@ In an era where artificial intelligence (AI) is transforming industries, ensurin
 * AI Model Security: Understand the importance of securing AI models and preventing adversarial attacks.
 
 ## Technology Used
-TODO: Add a list of any technology or software used.
+
+* Copilot Studio
+* Microsoft Purview
+* Azure AI Studio
 
 ## Additional Resources and Continued Learning
 TODO: If you would like to link the user to further learning, please enter that here.
