@@ -46,14 +46,14 @@ The [slides](presentations.md) have presenter notes in each part of the session
 35:00 - 40:00 | The evolution of cloud scale analytics
 40:00 - 45:00 | Session review
 
-## Deployment / Preparation
+## PENDING Deployment / Preparation
 
 >**What's Here?** Deploying the demo environment on Azure - including the prerequisites.
 
 [Instructions and prerequisites are outlined here](deployment/README.md). 
 
 
-## Demos
+## PENDING Demos
 
 > **What's Here?** Pre-delivery preparation, stage ready videos, required files (such as JSON templates), and walk-through videos
 
