@@ -40,7 +40,18 @@ TODO: If you would like to link the user to further learning, please enter that 
 </b></sub></a><br />
             <a href="https://github.com/joey-snow" title="talk">📢</a> 
     </td>
-</tr></table>
+</tr>
+<tr>
+    <td align="center"><a href="https://github.com/joey-snow">
+        <img src="https://avatars.githubusercontent.com/u/23324389?v=4" width="100px;" alt="Joey Snow
+"/><br />
+        <sub><b>Joey Snow
+</b></sub></a><br />
+            <a href="https://github.com/joey-snow" title="talk">📢</a> 
+    </td>
+</tr>
+
+</table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
