@@ -23,8 +23,9 @@ TODO: If you would like to link the user to further learning, please enter that 
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Future Learning 1  | [Link 1](https://www.google.com/) | Learn more about X |
-| Future Learning 2  | [Link 2](https://www.google.com/) | Learn more about Y |
+| Docs  | [Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/) | Learn more about Copilot Studio |
+| Docs  | [Microsoft Purview](https://learn.microsoft.com/en-us/purview/purview) | Learn more about Microsoft Purview |
+| Docs  | [Azure AI Studio](https://learn.microsoft.com/en-us/azure/ai-studio/) | Learn more about Azure AI Studio |
 
 ## Content Owners
 TODO: Add yourself as a content owner
@@ -36,12 +37,12 @@ TODO: Add yourself as a content owner
 
 <table>
 <tr>
-    <td align="center"><a href="http://learnanalytics.microsoft.com">
-        <img src="https://github.com/cole-g-johnson.png" width="100px;" alt="Chris Testa-O'Neill
+    <td align="center"><a href="https://github.com/joey-snow">
+        <img src="https://avatars.githubusercontent.com/u/23324389?v=4" width="100px;" alt="Joey Snow
 "/><br />
-        <sub><b>INSERT NAME HERE
+        <sub><b>Joey Snow
 </b></sub></a><br />
-            <a href="https://github.com/cole-g-johnson" title="talk">📢</a> 
+            <a href="https://github.com/joey-snow" title="talk">📢</a> 
     </td>
 </tr></table>
 
