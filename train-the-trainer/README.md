@@ -15,7 +15,7 @@ code.
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| * PowerPoint        | - [Pending](presentations.md) | Slides |
+| * PowerPoint        | - [PPT](https://aka.ms/AArxpjq) | Slides |
 | * PPT Recording     | - [Pending](https://globaleventcdn.blob.core.windows.net/assets/data/data10/DATA10.mp4) | Video Recording of the PowerPoint slides with no audio |
 | Demos Recordings             | - [Demo - Copilot Demo with Audio](https://aka.ms/AAruj6r) | Additional Demo Content | 
 | Demos  Recordings            | - [Demo - Copilot Demo without Audio](https://aka.ms/AAruqxt) | Additional Demo Content | 
