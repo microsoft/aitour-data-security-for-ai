@@ -23,14 +23,6 @@ code.
 | Demos Recordings             | - [Demo - Open AI Demo without Audio](https://aka.ms/AAruylb) | Additional Demo Content |  
 | Demo Script           | - [Demo Script](https://aka.ms/AAruj6s) | Talk script for demos | 
 
-## PENDING Get Started
-
-This training repository is divided in to the following sections:
-
-| [Slides](#slides) | [Demos](demos/README.md) | [Deployment](deployment/README.md) | 
-|-------------------|---------------------------|--------------------------------------
-| 28 slides - 30 minutes| 1 demos - 15 minutes | Demo setup
-
 ## PENDING Slides
 
 The [slides](presentations.md) have presenter notes in each part of the session
