@@ -54,4 +54,9 @@ Detailed explanations of each demonstration associated with this presentation ca
 | Demo 	                                                                                               | Minutes | Video |
 -------------------------------------------------------------------------------------------------------|---------|----------------- | 
 |  [1 - Exploring a Modern Data Warehouse](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | 15       | [Link](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4) |
+| Demos Recordings             | - [Demo - Copilot Demo with Audio](https://aka.ms/AAruj6r) | Additional Demo Content | 
+| Demos  Recordings            | - [Demo - Copilot Demo without Audio](https://aka.ms/AAruqxt) | Additional Demo Content | 
+| Demos Recordings             | - [Demo - Open AI Demo with Audio](https://aka.ms/AAruqxu) | Additional Demo Content | 
+| Demos Recordings             | - [Demo - Open AI Demo without Audio](https://aka.ms/AAruylb) | Additional Demo Content |  
+| Demo Script           | - [Demo Script](https://aka.ms/AAruj6s) | Talk script for demos | 
 
