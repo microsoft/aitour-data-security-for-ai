@@ -23,9 +23,9 @@ code.
 | Demos Recordings             | - [Demo - Open AI Demo without Audio](https://aka.ms/AAruylb) | Additional Demo Content |  
 | Demo Script           | - [Demo Script](https://aka.ms/AAruj6s) | Talk script for demos | 
 
-## PENDING Slides
+## Slides
 
-The [slides](presentations.md) have presenter notes in each part of the session
+The [slides](https://aka.ms/AArxpjq) have presenter notes in each part of the session
 
 ### PENDING Timing
 
