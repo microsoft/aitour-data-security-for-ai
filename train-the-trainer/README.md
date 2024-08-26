@@ -27,7 +27,7 @@ code.
 
 The [slides](https://aka.ms/AArxpjq) have presenter notes in each part of the session
 
-### PENDING Timing
+### Timing
 
 | Time        | Description 
 --------------|-------------
@@ -44,7 +44,7 @@ The [slides](https://aka.ms/AArxpjq) have presenter notes in each part of the se
 [Instructions and prerequisites are outlined here](deployment/README.md). 
 
 
-## PENDING Demos
+## Demos
 
 > **What's Here?** Pre-delivery preparation, stage ready videos, required files (such as JSON templates), and walk-through videos
 
