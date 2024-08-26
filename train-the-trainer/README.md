@@ -32,11 +32,10 @@ The [slides](https://aka.ms/AArxpjq) have presenter notes in each part of the se
 | Time        | Description 
 --------------|-------------
 0:00 - 5:00   | Intro to the session 
-5:00 - 15:00  | Why Modern Data Warehousing
-15:00 - 20:00 | Building the Modern data warehouse
-20:00 - 35:00 | Designing a modern data warehouse solution
-35:00 - 40:00 | The evolution of cloud scale analytics
-40:00 - 45:00 | Session review
+5:00 - 20:00  | Data Security: AI makes it better and worse
+20:00 - 35:00 | Decisions you can make
+35:00 - 42:00 | Demos
+42:00 - 45:00 | Session review Q&A
 
 ## PENDING Deployment / Preparation
 
@@ -53,9 +52,9 @@ Detailed explanations of each demonstration associated with this presentation ca
 
 | Demo 	                                                                                               | Minutes | Video |
 -------------------------------------------------------------------------------------------------------|---------|----------------- | 
-| - [Demo - Copilot Demo with Audio](https://aka.ms/AAruj6r) | ?? |  [Link] |
-| - [Demo - Copilot Demo without Audio](https://aka.ms/AAruqxt) | ?? |  [Link] |
-| - [Demo - Open AI Demo with Audio](https://aka.ms/AAruqxu) | ?? |  [Link] |
-| - [Demo - Open AI Demo without Audio](https://aka.ms/AAruylb) | ?? |   [Link] |
+| - [Demo - Copilot Demo with Audio](https://aka.ms/AAruj6r) | 3:17 |  [Link] |
+| - [Demo - Copilot Demo without Audio](https://aka.ms/AAruqxt) | 3:17 |  [Link] |
+| - [Demo - Open AI Demo with Audio](https://aka.ms/AAruqxu) | 3:08 |  [Link] |
+| - [Demo - Open AI Demo without Audio](https://aka.ms/AAruylb) | 3:08 |   [Link] |
 | - [Demo Script](https://aka.ms/AAruj6s) | ?? | [Link] |
 
