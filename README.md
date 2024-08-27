@@ -19,7 +19,6 @@ In an era where artificial intelligence (AI) is transforming industries, ensurin
 * Azure AI Studio
 
 ## Additional Resources and Continued Learning
-TODO: If you would like to link the user to further learning, please enter that here.
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
