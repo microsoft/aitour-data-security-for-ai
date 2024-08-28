@@ -1,5 +1,5 @@
 # BRK421 Data Security for AI
-
+If you will be delivering this session, consult the [session-delivery-resources](https://github.com/microsoft/aitour-data-security-for-ai/tree/main/session-delivery-resources) page for slides, demo scripts, and other resources.
 ## Session Desciption
 
 In an era where artificial intelligence (AI) is transforming industries, ensuring the security of data used in AI systems is paramount. This session, “Data Security for AI,” will delve into the critical aspects of protecting data throughout the AI lifecycle. Participants will gain insights into the unique challenges and best practices for securing data in AI applications, from data collection and storage to processing and deployment.
