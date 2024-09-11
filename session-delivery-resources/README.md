@@ -39,6 +39,16 @@ The [slides](https://aka.ms/AArxpjq) have presenter notes in each part of the se
 35:00 - 42:00 | Demos
 42:00 - 45:00 | Session review Q&A
 
+
+### PowerPoint Slides in Additional Languages
+
+| Language  | Last Updated |
+| ------------- | ------------- |
+| [Spanish](https://aka.ms/AAs7mfy)  | 2024.09.11  |
+|  [Portuguese](https://aka.ms/AAs7ety) | 2024.09.11  |
+
+
+
 ## PENDING Deployment / Preparation
 
 >**What's Here?** Deploying the demo environment on Azure - including the prerequisites.
@@ -59,4 +69,13 @@ Detailed explanations of each demonstration associated with this presentation ca
 | - [Demo - Open AI Demo with Audio](https://aka.ms/AAruqxu) | 3:08 |  [Link] |
 | - [Demo - Open AI Demo without Audio](https://aka.ms/AAruylb) | 3:08 |   [Link] |
 | - [Demo Script](https://aka.ms/AAruj6s) | ?? | [Link] |
+
+
+## Change Log
+
+Here is a log of changes made to this file:
+
+| Date  | Changes |
+| ------------- | ------------- |
+| 2024.09.11 | Added change log, added Spanish and Portuguese language slide decks  |
 
