@@ -24,7 +24,7 @@ In an era where artificial intelligence (AI) is transforming industries, ensurin
 |:-------------------|:----------------------------------|:-------------------|
 | Docs  | [Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/) | Learn more about Copilot Studio |
 | Docs  | [Microsoft Purview](https://learn.microsoft.com/en-us/purview/purview) | Learn more about Microsoft Purview |
-| Docs  | [Azure AI Studio](https://learn.microsoft.com/en-us/azure/ai-studio/) | Learn more about Azure AI Studio |
+| Docs  | [Azure AI Foundry](https://learn.microsoft.com/en-us/azure/ai-studio/) | Learn more about Azure AI Foundry |
 
 ## Content Owners
 
