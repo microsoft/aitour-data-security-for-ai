@@ -16,7 +16,7 @@ In an era where artificial intelligence (AI) is transforming industries, ensurin
 
 * Copilot Studio
 * Microsoft Purview
-* Azure AI Studio
+* Azure AI Foundry
 
 ## Additional Resources and Continued Learning
 
