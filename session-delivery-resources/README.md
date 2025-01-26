@@ -6,10 +6,9 @@ Welcome,
 
 We're glad you are here and look forward to your delivery of this amazing content. As an experienced presenter, we know you know HOW to present so this guide will focus on WHAT you need to present. It will provide you a full run-through of the presentation created by the presentation design team. 
 
-Along with the video of the presentation, this document will link to all the assets you need to successfully present including PowerPoint slides and demo instructions &
-code.
+Along with the video of the presentation, this document will link to all the assets you need to successfully present including PowerPoint slides and demo instructions & code.
 
-1.  Read document in its entirety.
+1.  Read document in its entirety
 2.  Watch the video presentation
 3.  Ask questions of the Lead Presenter
 
@@ -17,13 +16,13 @@ code.
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| * PowerPoint        | - [PPT](https://aka.ms/AArxpjq) | Slides |
+| * PowerPoint        | - [PPT]([ | Slides |
 | * PPT Recording     | - [Deliver this session](https://aka.ms/AArzgst) | Video Recording of the PowerPoint with audio |
-| Demos Recordings             | - [Demo - Copilot Demo with Audio](https://aka.ms/AAruj6r) | Additional Demo Content | 
-| Demos  Recordings            | - [Demo - Copilot Demo without Audio](https://aka.ms/AAruqxt) | Additional Demo Content | 
-| Demos Recordings             | - [Demo - Open AI Demo with Audio](https://aka.ms/AAruqxu) | Additional Demo Content | 
-| Demos Recordings             | - [Demo - Open AI Demo without Audio](https://aka.ms/AAruylb) | Additional Demo Content |  
-| Demo Script           | - [Demo Script](https://aka.ms/AAruj6s) | Talk script for demos | 
+| Demo Recordings             | - [Demo - Copilot Demo with Audio](https://aka.ms/AAruj6r) | 1st demo content without audio | 
+| Demo Recordings            | - [Demo - Copilot Demo without Audio](https://aka.ms/AAruqxt) | 2nd demo content without audio  | 
+| Demo Recordings             | - [Demo - Open AI Demo with Audio](https://aka.ms/AAruqxu) | 3rd demo content without audio  | 
+| Demo Recordings             | - [Demo - Open AI Demo without Audio](https://aka.ms/AAruylb) | 4th demo content without audio  |  
+| Demo Recordings             | - [Demo - Open AI Demo without Audio](https://aka.ms/AAruylb) | 5th demo content without audio  |  
 
 ## Slides
 
@@ -33,14 +32,19 @@ The [slides](https://aka.ms/AArxpjq) have presenter notes in each part of the se
 
 | Time        | Description 
 --------------|-------------
-0:00 - 5:00   | Intro to the session 
-5:00 - 20:00  | Data Security: AI makes it better and worse
-20:00 - 35:00 | Decisions you can make
-35:00 - 42:00 | Demos
+0:00 - 8:00   | Intro to the session 
+8:00 - 20:00  | AI Data Governance and Security
+20:00 - 35:00 | Data Flow and AI Applications
+35:00 - 42:00 | Demo: Finding AI Data Resources in Azure
+42:00 - 45:00 | AI Risks and Data Security
+42:00 - 45:00 | Demo: Sensitivity Labels and AI
+42:00 - 45:00 | Core Concepts of AI Security
+42:00 - 45:00 | Demo: Reducing AI Attack Surface
+42:00 - 45:00 | Session review Q&A
 42:00 - 45:00 | Session review Q&A
 
 
-### PowerPoint Slides in Additional Languages
+### PowerPoint Slides in Additional Languages *NOT YET UPDATED TO V3.0 OF THIS TALK*
 
 | Language  | Last Updated |
 | ------------- | ------------- |
@@ -49,18 +53,10 @@ The [slides](https://aka.ms/AArxpjq) have presenter notes in each part of the se
 
 
 
-## PENDING Deployment / Preparation
-
->**What's Here?** Deploying the demo environment on Azure - including the prerequisites.
-
-[Instructions and prerequisites are outlined here](deployment/README.md). 
-
 
 ## Demos
 
-> **What's Here?** Pre-delivery preparation, stage ready videos, required files (such as JSON templates), and walk-through videos
-
-Detailed explanations of each demonstration associated with this presentation can be found in this section. There are 3 "live from stage" technical demonstrations that utilize a number of tools both in and out of Azure. [You can get a high level overview of the tools and how we will be using them here](demos/README.md).
+> **What's Here?** Pre-delivery preparation and stage ready videos.
 
 | Demo 	                                                                                               | Minutes | Video |
 -------------------------------------------------------------------------------------------------------|---------|----------------- | 
@@ -77,5 +73,6 @@ Here is a log of changes made to this file:
 
 | Date  | Changes |
 | ------------- | ------------- |
+| 2025.01.26 | Updated English language decks, demos and recording for FY25 H2 AI tour dates |
 | 2024.09.11 | Added change log, added Spanish and Portuguese language slide decks  |
 
