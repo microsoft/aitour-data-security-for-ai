@@ -30,18 +30,23 @@ The [slides](https://aka.ms/AArxpjq) have presenter notes in each part of the se
 
 ### Timing
 
+*Timings below based on PPT recording above, these are approximate times and you should adapt to your own delivery as necessary.*
+
 | Time        | Description 
 --------------|-------------
-0:00 - 8:00   | Intro to the session 
-8:00 - 20:00  | AI Data Governance and Security
-20:00 - 35:00 | Data Flow and AI Applications
-35:00 - 42:00 | Demo: Finding AI Data Resources in Azure
-42:00 - 45:00 | AI Risks and Data Security
-42:00 - 45:00 | Demo: Sensitivity Labels and AI
-42:00 - 45:00 | Core Concepts of AI Security
-42:00 - 45:00 | Demo: Reducing AI Attack Surface
-42:00 - 45:00 | Session review Q&A
-42:00 - 45:00 | Session review Q&A
+0:00 - 4:00   | Intro to the session 
+4:00 - 6:00  | Anatomy of an AI App
+6:00 - 15:50 | Data Flow and AI Applications
+15:50 - 18:05 | Demo: Finding AI Data Resources in Azure
+18:05 - 21:40 | Purview and data oversharing
+21:40 - 24:30 | Demo: Finding overshared data
+24:30 - 26:30 | Data security posture management (DPSM)
+26:30 - 30:00 | Demo: Data sensitivity labels and least priv
+30:00 - 32:45 | Core concepts of AI security
+32:45 - 34:45 | Demo: Reducing AI Attack Surface
+34:45 - 36:00 | Jailbreaks
+36:00 - 37:00 | Demo: Jailbreak report
+37:00 - 45:00 | Wrap up / Q&A
 
 
 ### PowerPoint Slides in Additional Languages *NOT YET UPDATED TO V3.0 OF THIS TALK*
