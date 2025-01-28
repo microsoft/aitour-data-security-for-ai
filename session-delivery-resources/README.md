@@ -65,11 +65,11 @@ The [slides](https://aka.ms/AArxpjq) have presenter notes in each part of the se
 
 | Demo 	                                                                                               | Minutes |
 -------------------------------------------------------------------------------------------------------|---------|
-| - [Demo - Copilot Demo without Audio](https://aka.ms/AAu40qm) | 0:42 |
-| - [Demo - Copilot Demo without Audio](https://aka.ms/AAu3t61) | 0:53 |
-| - [Demo - Open AI Demo without Audio](https://aka.ms/AAu40qo) | 0:43|
-| - [Demo - Open AI Demo without Audio](https://aka.ms/AAu40qp) | 1:27 |
-| - [Demo - Open AI Demo without Audio](https://aka.ms/AAu3mh4) | 0:19 |
+| - [Demo #1 - Copilot Demo without Audio](https://aka.ms/AAu40qm) | 0:42 |
+| - [Demo #2 - Copilot Demo without Audio](https://aka.ms/AAu3t61) | 0:53 |
+| - [Demo #3 - Open AI Demo without Audio](https://aka.ms/AAu40qo) | 0:43|
+| - [Demo #4 - Open AI Demo without Audio](https://aka.ms/AAu40qp) | 1:27 |
+| - [Demo #5 - Open AI Demo without Audio](https://aka.ms/AAu3mh4) | 0:19 |
 
 
 ## Change Log
