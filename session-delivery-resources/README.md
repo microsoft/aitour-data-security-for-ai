@@ -6,10 +6,9 @@ Welcome,
 
 We're glad you are here and look forward to your delivery of this amazing content. As an experienced presenter, we know you know HOW to present so this guide will focus on WHAT you need to present. It will provide you a full run-through of the presentation created by the presentation design team. 
 
-Along with the video of the presentation, this document will link to all the assets you need to successfully present including PowerPoint slides and demo instructions &
-code.
+Along with the video of the presentation, this document will link to all the assets you need to successfully present including PowerPoint slides and demo instructions & code.
 
-1.  Read document in its entirety.
+1.  Read document in its entirety
 2.  Watch the video presentation
 3.  Ask questions of the Lead Presenter
 
@@ -18,12 +17,12 @@ code.
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
 | * PowerPoint        | - [PPT](https://aka.ms/AArxpjq) | Slides |
-| * PPT Recording     | - [Deliver this session](https://aka.ms/AArzgst) | Video Recording of the PowerPoint with audio |
-| Demos Recordings             | - [Demo - Copilot Demo with Audio](https://aka.ms/AAruj6r) | Additional Demo Content | 
-| Demos  Recordings            | - [Demo - Copilot Demo without Audio](https://aka.ms/AAruqxt) | Additional Demo Content | 
-| Demos Recordings             | - [Demo - Open AI Demo with Audio](https://aka.ms/AAruqxu) | Additional Demo Content | 
-| Demos Recordings             | - [Demo - Open AI Demo without Audio](https://aka.ms/AAruylb) | Additional Demo Content |  
-| Demo Script           | - [Demo Script](https://aka.ms/AAruj6s) | Talk script for demos | 
+| * PPT Recording     | - [Deliver this session](https://aka.ms/AAu3mh6) | Video Recording of the PowerPoint with audio |
+| Demo Recordings             | - [Demo: Finding AI Data Resources in Azure without Audio](https://aka.ms/AAu40qm) | 1st demo content without audio | 
+| Demo Recordings            | - [Demo: Finding overshared data without Audio](https://aka.ms/AAu3t61) | 2nd demo content without audio  | 
+| Demo Recordings             | - [Demo: Data sensitivity labels and least priv without Audio](https://aka.ms/AAu40qo) | 3rd demo content without audio  | 
+| Demo Recordings             | - [Demo: Reducing AI Attack Surface without Audio](https://aka.ms/AAu40qp) | 4th demo content without audio  |  
+| Demo Recordings             | - [Demo: Jailbreak report without Audio](https://aka.ms/AAu3mh4) | 5th demo content without audio  |  
 
 ## Slides
 
@@ -31,16 +30,26 @@ The [slides](https://aka.ms/AArxpjq) have presenter notes in each part of the se
 
 ### Timing
 
+*Timings below based on PPT recording above, these are approximate times and you should adapt to your own delivery as necessary.*
+
 | Time        | Description 
 --------------|-------------
-0:00 - 5:00   | Intro to the session 
-5:00 - 20:00  | Data Security: AI makes it better and worse
-20:00 - 35:00 | Decisions you can make
-35:00 - 42:00 | Demos
-42:00 - 45:00 | Session review Q&A
+0:00 - 4:00   | Intro to the session 
+4:00 - 6:00  | Anatomy of an AI App
+6:00 - 15:50 | Data Flow and AI Applications
+15:50 - 18:05 | Demo: Finding AI Data Resources in Azure
+18:05 - 21:40 | Purview and data oversharing
+21:40 - 24:30 | Demo: Finding overshared data
+24:30 - 26:30 | Data security posture management (DPSM)
+26:30 - 30:00 | Demo: Data sensitivity labels and least priv
+30:00 - 32:45 | Core concepts of AI security
+32:45 - 34:45 | Demo: Reducing AI Attack Surface
+34:45 - 36:00 | Jailbreaks
+36:00 - 37:00 | Demo: Jailbreak report
+37:00 - 45:00 | Wrap up / Q&A
 
 
-### PowerPoint Slides in Additional Languages
+### PowerPoint Slides in Additional Languages *NOT YET UPDATED TO V3.0 OF THIS TALK*
 
 | Language  | Last Updated |
 | ------------- | ------------- |
@@ -49,26 +58,18 @@ The [slides](https://aka.ms/AArxpjq) have presenter notes in each part of the se
 
 
 
-## PENDING Deployment / Preparation
-
->**What's Here?** Deploying the demo environment on Azure - including the prerequisites.
-
-[Instructions and prerequisites are outlined here](deployment/README.md). 
-
 
 ## Demos
 
-> **What's Here?** Pre-delivery preparation, stage ready videos, required files (such as JSON templates), and walk-through videos
+> **What's Here?** Stage ready videos.
 
-Detailed explanations of each demonstration associated with this presentation can be found in this section. There are 3 "live from stage" technical demonstrations that utilize a number of tools both in and out of Azure. [You can get a high level overview of the tools and how we will be using them here](demos/README.md).
-
-| Demo 	                                                                                               | Minutes | Video |
--------------------------------------------------------------------------------------------------------|---------|----------------- | 
-| - [Demo - Copilot Demo with Audio](https://aka.ms/AAruj6r) | 3:17 |  [Link] |
-| - [Demo - Copilot Demo without Audio](https://aka.ms/AAruqxt) | 3:17 |  [Link] |
-| - [Demo - Open AI Demo with Audio](https://aka.ms/AAruqxu) | 3:08 |  [Link] |
-| - [Demo - Open AI Demo without Audio](https://aka.ms/AAruylb) | 3:08 |   [Link] |
-| - [Demo Script](https://aka.ms/AAruj6s) | ?? | [Link] |
+| Demo 	                                                                                               | Minutes |
+-------------------------------------------------------------------------------------------------------|---------|
+| - [Demo #1 - Finding AI Data Resources in Azure without Audio](https://aka.ms/AAu40qm) | 0:42 |
+| - [Demo #2 - Finding overshared data without Audio](https://aka.ms/AAu3t61) | 0:53 |
+| - [Demo #3 - Data sensitivity labels and least priv without Audio](https://aka.ms/AAu40qo) | 0:43|
+| - [Demo #4 - Reducing AI Attack Surface without Audio](https://aka.ms/AAu40qp) | 1:27 |
+| - [Demo #5 - Jailbreak report without Audio](https://aka.ms/AAu3mh4) | 0:19 |
 
 
 ## Change Log
@@ -77,5 +78,6 @@ Here is a log of changes made to this file:
 
 | Date  | Changes |
 | ------------- | ------------- |
+| 2025.01.26 | Updated English language decks, demos and recording for FY25 H2 AI tour dates |
 | 2024.09.11 | Added change log, added Spanish and Portuguese language slide decks  |
 
