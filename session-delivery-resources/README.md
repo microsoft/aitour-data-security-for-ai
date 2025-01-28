@@ -16,13 +16,13 @@ Along with the video of the presentation, this document will link to all the ass
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| * PowerPoint        | - [PPT]([ | Slides |
-| * PPT Recording     | - [Deliver this session](https://aka.ms/AArzgst) | Video Recording of the PowerPoint with audio |
-| Demo Recordings             | - [Demo - Copilot Demo with Audio](https://aka.ms/AAruj6r) | 1st demo content without audio | 
-| Demo Recordings            | - [Demo - Copilot Demo without Audio](https://aka.ms/AAruqxt) | 2nd demo content without audio  | 
-| Demo Recordings             | - [Demo - Open AI Demo with Audio](https://aka.ms/AAruqxu) | 3rd demo content without audio  | 
-| Demo Recordings             | - [Demo - Open AI Demo without Audio](https://aka.ms/AAruylb) | 4th demo content without audio  |  
-| Demo Recordings             | - [Demo - Open AI Demo without Audio](https://aka.ms/AAruylb) | 5th demo content without audio  |  
+| * PowerPoint        | - [PPT](https://aka.ms/AArxpjq) | Slides |
+| * PPT Recording     | - [Deliver this session](https://aka.ms/AAu3mh6) | Video Recording of the PowerPoint with audio |
+| Demo Recordings             | - [Demo - Copilot Demo without Audio](https://aka.ms/AAu40qm) | 1st demo content without audio | 
+| Demo Recordings            | - [Demo - Copilot Demo without Audio](https://aka.ms/AAu3t61) | 2nd demo content without audio  | 
+| Demo Recordings             | - [Demo - Open AI Demo without Audio](https://aka.ms/AAu40qo) | 3rd demo content without audio  | 
+| Demo Recordings             | - [Demo - Open AI Demo without Audio](https://aka.ms/AAu40qp) | 4th demo content without audio  |  
+| Demo Recordings             | - [Demo - Open AI Demo without Audio](https://aka.ms/AAu3mh4) | 5th demo content without audio  |  
 
 ## Slides
 
@@ -63,13 +63,13 @@ The [slides](https://aka.ms/AArxpjq) have presenter notes in each part of the se
 
 > **What's Here?** Pre-delivery preparation and stage ready videos.
 
-| Demo 	                                                                                               | Minutes | Video |
--------------------------------------------------------------------------------------------------------|---------|----------------- | 
-| - [Demo - Copilot Demo with Audio](https://aka.ms/AAruj6r) | 3:17 |  [Link] |
-| - [Demo - Copilot Demo without Audio](https://aka.ms/AAruqxt) | 3:17 |  [Link] |
-| - [Demo - Open AI Demo with Audio](https://aka.ms/AAruqxu) | 3:08 |  [Link] |
-| - [Demo - Open AI Demo without Audio](https://aka.ms/AAruylb) | 3:08 |   [Link] |
-| - [Demo Script](https://aka.ms/AAruj6s) | ?? | [Link] |
+| Demo 	                                                                                               | Minutes |
+-------------------------------------------------------------------------------------------------------|---------|
+| - [Demo - Copilot Demo without Audio](https://aka.ms/AAu40qm) | 3:17 |
+| - [Demo - Copilot Demo without Audio](https://aka.ms/AAu3t61) | 3:17 |
+| - [Demo - Open AI Demo without Audio](https://aka.ms/AAu40qo) | 3:08 |
+| - [Demo - Open AI Demo without Audio](https://aka.ms/AAu40qp) | 3:08 |
+| - [Demo - Open AI Demo without Audio](https://aka.ms/AAu3mh4) ) | ?? |
 
 
 ## Change Log
