@@ -18,11 +18,11 @@ Along with the video of the presentation, this document will link to all the ass
 |-------------------|----------------------------------|-------------------|
 | * PowerPoint        | - [PPT](https://aka.ms/AArxpjq) | Slides |
 | * PPT Recording     | - [Deliver this session](https://aka.ms/AAu3mh6) | Video Recording of the PowerPoint with audio |
-| Demo Recordings             | - [Demo - Copilot Demo without Audio](https://aka.ms/AAu40qm) | 1st demo content without audio | 
-| Demo Recordings            | - [Demo - Copilot Demo without Audio](https://aka.ms/AAu3t61) | 2nd demo content without audio  | 
-| Demo Recordings             | - [Demo - Open AI Demo without Audio](https://aka.ms/AAu40qo) | 3rd demo content without audio  | 
-| Demo Recordings             | - [Demo - Open AI Demo without Audio](https://aka.ms/AAu40qp) | 4th demo content without audio  |  
-| Demo Recordings             | - [Demo - Open AI Demo without Audio](https://aka.ms/AAu3mh4) | 5th demo content without audio  |  
+| Demo Recordings             | - [Demo: Finding AI Data Resources in Azure without Audio](https://aka.ms/AAu40qm) | 1st demo content without audio | 
+| Demo Recordings            | - [Demo: Finding overshared data without Audio](https://aka.ms/AAu3t61) | 2nd demo content without audio  | 
+| Demo Recordings             | - [Demo: Data sensitivity labels and least priv without Audio](https://aka.ms/AAu40qo) | 3rd demo content without audio  | 
+| Demo Recordings             | - [Demo: Reducing AI Attack Surface without Audio](https://aka.ms/AAu40qp) | 4th demo content without audio  |  
+| Demo Recordings             | - [Demo: Jailbreak report without Audio](https://aka.ms/AAu3mh4) | 5th demo content without audio  |  
 
 ## Slides
 
@@ -65,11 +65,11 @@ The [slides](https://aka.ms/AArxpjq) have presenter notes in each part of the se
 
 | Demo 	                                                                                               | Minutes |
 -------------------------------------------------------------------------------------------------------|---------|
-| - [Demo #1 - Copilot Demo without Audio](https://aka.ms/AAu40qm) | 0:42 |
-| - [Demo #2 - Copilot Demo without Audio](https://aka.ms/AAu3t61) | 0:53 |
-| - [Demo #3 - Open AI Demo without Audio](https://aka.ms/AAu40qo) | 0:43|
-| - [Demo #4 - Open AI Demo without Audio](https://aka.ms/AAu40qp) | 1:27 |
-| - [Demo #5 - Open AI Demo without Audio](https://aka.ms/AAu3mh4) | 0:19 |
+| - [Demo #1 - Finding AI Data Resources in Azure without Audio](https://aka.ms/AAu40qm) | 0:42 |
+| - [Demo #2 - Finding overshared data without Audio](https://aka.ms/AAu3t61) | 0:53 |
+| - [Demo #3 - Data sensitivity labels and least priv without Audio](https://aka.ms/AAu40qo) | 0:43|
+| - [Demo #4 - Reducing AI Attack Surface without Audio](https://aka.ms/AAu40qp) | 1:27 |
+| - [Demo #5 - Jailbreak report without Audio](https://aka.ms/AAu3mh4) | 0:19 |
 
 
 ## Change Log
