@@ -61,7 +61,7 @@ The [slides](https://aka.ms/AArxpjq) have presenter notes in each part of the se
 
 ## Demos
 
-> **What's Here?** Pre-delivery preparation and stage ready videos.
+> **What's Here?** Stage ready videos.
 
 | Demo 	                                                                                               | Minutes |
 -------------------------------------------------------------------------------------------------------|---------|
